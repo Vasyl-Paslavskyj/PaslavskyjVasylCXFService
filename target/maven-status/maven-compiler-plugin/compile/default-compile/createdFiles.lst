@@ -1,0 +1,7 @@
+com\epam\lab3\ws\NewspaperService.class
+com\epam\lab3\models\Category.class
+com\epam\lab3\ws\NewspaperServiceRESTImpl.class
+com\epam\lab3\dao\NewsDAO.class
+com\epam\lab3\modelsWeb\JSONCreator.class
+com\epam\lab3\ws\NewspaperServiceSOAPImpl.class
+com\epam\lab3\models\News.class
